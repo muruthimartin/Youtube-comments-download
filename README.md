@@ -1,5 +1,5 @@
 # Youtube-comments-download
-A simple script that enables you to download comments from youtube
+A simple script that enables you to download comments from a Youtube video
 
 USAGE
 
