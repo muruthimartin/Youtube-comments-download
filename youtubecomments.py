@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import re
 import json
 import urllib.request
@@ -63,9 +57,7 @@ with open("allComments.tsv", "w+", encoding = 'utf-8') as f:
     
         
 
-
-# In[ ]:
-
+        
 
 
 
